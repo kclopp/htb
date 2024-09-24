@@ -1,0 +1,1 @@
+# Nmap 7.94SVN scan initiated Mon Sep 23 20:25:22 2024 as: nmap -sU -p- -sV -oA 10.10.10.7-sU-p--sV 10.10.10.7

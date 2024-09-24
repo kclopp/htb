@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.94SVN scan initiated Mon Sep 23 20:25:22 2024 as: nmap -sU -p- -sV -oA 10.10.10.7-sU-p-&#45;sV 10.10.10.7 -->
+<nmaprun scanner="nmap" args="nmap -sU -p- -sV -oA 10.10.10.7-sU-p-&#45;sV 10.10.10.7" start="1727137522" startstr="Mon Sep 23 20:25:22 2024" version="7.94SVN" xmloutputversion="1.05">
+<scaninfo type="udp" protocol="udp" numservices="65535" services="1-65535"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<hosthint><status state="up" reason="unknown-response" reason_ttl="0"/>
+<address addr="10.10.10.7" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</hosthint>
+<taskprogress task="UDP Scan" time="1727185929" percent="73.75" remaining="17229" etc="1727203157"/>
+<taskprogress task="UDP Scan" time="1727187908" percent="76.76" remaining="15254" etc="1727203161"/>
